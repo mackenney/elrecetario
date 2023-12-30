@@ -26,6 +26,8 @@ AUTHORS = {
     }
 }
 
+LANDING_PAGE_TITLE = "Un recetario armado entre amigos"
+
 # Blogroll
 LINKS = (
     ("Pelican", "https://getpelican.com/"),
