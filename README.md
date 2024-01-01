@@ -1,7 +1,7 @@
 # El recetario
 
 ## Instalación
-- instalar `poetry` ([poetry](python-poetry.org)). Poetry es el gestor de
+- instalar `poetry` ([poetry](https://python-poetry.org)). Poetry es el gestor de
   dependencias que usa este proyecto. Se encargará de instalar los programas
   necesarios. En nuestro caso, Pelican
   ([pelican](https://docs.getpelican.com/en/latest/)).
