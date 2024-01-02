@@ -22,7 +22,7 @@ AUTHORS = {
         "blurb": "Entusiasta de la comida",
     },
     "Ignacio": {
-        "blurb": ":)"
+        "blurb": "Vegano nerd"
     }
 }
 

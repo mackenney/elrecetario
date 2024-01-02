@@ -29,3 +29,9 @@
   lo que se hizo.
 - Finalmente: `git push`. Esto subirá los cambios, automáticamente el sitio se
   actualizará.
+
+# TODO
+1. páginas estáticas para autores
+2. pensar en cómo darle una sección especial a completos
+3. cómo publicar secciones generales? Guille tiene consideraciones generales
+   para grupos de recetas.
